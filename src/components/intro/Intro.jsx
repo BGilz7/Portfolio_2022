@@ -11,11 +11,7 @@ export default function Intro() {
       showCursor: false,
       backDelay: 1500,
       backSpeed: 50,
-      strings: [
-        "Solutions Engineer..",
-        "Collaborator..",
-        "Punk Rock Enthusiast.",
-      ],
+      strings: ["Product Manager.", "Collaborator.", "Punk Rock Enthusiast."],
     });
   }, []);
 
